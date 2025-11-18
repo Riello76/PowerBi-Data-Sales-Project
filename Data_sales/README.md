@@ -35,5 +35,8 @@ The project includes the following dashboards and charts:
 - Identifies top-performing countries and product categories.
 - Shows trends in sales and profits over multiple years.
 - Helps in strategic planning by highlighting areas of strength and weakness.
+## Screenshot
+
+<img width="1562" height="852" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/5027e2d5-321b-4af1-82e3-3af9abcda2d0" />
 
 
