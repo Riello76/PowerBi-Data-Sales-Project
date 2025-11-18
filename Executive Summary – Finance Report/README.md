@@ -44,3 +44,6 @@ The project includes the following dashboards and charts:
 - **Dataset Filename:** `Financial_Sample.xlsx`
 - **Format:** Excel (.xlsx)
 - **Contents:** Financial metrics including profit and sales by month, year, country, product, and segment.
+
+## Screenshot
+<img width="1557" height="814" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/5311046b-6bd1-4d0a-8354-6badc0d49d4b" />
