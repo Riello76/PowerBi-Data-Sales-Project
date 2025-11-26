@@ -53,7 +53,7 @@ The project includes the following dashboards and charts:
 
 ## 🖼 Screenshot
 
-<img width="1557" height="814" alt="Power BI Executive Summary Screenshot" src="https://github.com/user-attachments/assets/5311046b-6bd1-4d0a-8354-6badc0d49d4b" />
+<img width="1518" height="812" alt="image" src="https://github.com/user-attachments/assets/684854ea-00cc-464e-9e5f-f38fc2c8949c" />
 
 ---
 
@@ -67,4 +67,5 @@ The project includes the following dashboards and charts:
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
