@@ -47,15 +47,6 @@ The project includes the following dashboards and charts:
 
 ---
 
-## 🚀 How to Use
-
-1. Open the **Excel dataset** in Power BI Desktop  
-2. Explore or recreate the dashboards using the provided data  
-3. Use interactive filters to analyze **sales by month, region, and category**  
-4. Ideal for **sales performance analysis, BI practice, and visualization projects**  
-
----
-
 ## 🖼 Screenshot
 
 <img width="1350" height="752" alt="Starter Sales Analysis Screenshot" src="https://github.com/user-attachments/assets/fb8a800d-508a-4db1-9c4b-6e7764c53ac8" />
@@ -72,5 +63,6 @@ The project includes the following dashboards and charts:
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
